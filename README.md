@@ -81,6 +81,9 @@ in `config.php` an ein tatsaechlich erreichbares Ziel anpassen.
 - Statistik: Verfuegbarkeit in %, Gesamt-Online-/Offline-Zeit, Anzahl und
   Dauer des laengsten Ausfalls
 
+  <img width="1849" height="623" alt="grafik" src="https://github.com/user-attachments/assets/930846c8-ca94-43fc-a6b5-81f6c4f7d2c1" />
+
+
 ## Dateien
 
 ```
